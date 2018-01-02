@@ -1,0 +1,63 @@
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\bin\Debug\Presentacion.exe
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\bin\Debug\Presentacion.xml
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\obj\Debug\Presentacion.Resources.resources
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\obj\Debug\Presentacion.exe
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\obj\Debug\Presentacion.xml
+c:\users\administrador\documents\visual studio 2012\Projects\AppColegio\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmAlumno.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmCurso.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmNotas.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmProfesor.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Datos.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Conexionbd.dll
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Entidades.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Negocio.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Datos.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Conexionbd.pdb
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\bin\Debug\Conexionbd.xml
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Administrador\Documents\Visual Studio 2012\projects\AppColegio\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\bin\Debug\Presentacion.exe.config
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.exe
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.xml
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.pdb
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\bin\Debug\Presentacion.exe
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\bin\Debug\Presentacion.pdb
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\bin\Debug\Presentacion.xml
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmAlumno.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmCurso.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmNotas.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmProfesor.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.Resources.resources
+H:\sise\Aplicaciones de escritorio\notas\examen sustitutorio\AppSustitutorio\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmAlumno.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmCurso.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmMenu.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmNotas.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmProfesor.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Martin\Desktop\archivos\archivos\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.Cache
